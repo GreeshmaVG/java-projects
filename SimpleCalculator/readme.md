@@ -1,4 +1,5 @@
 the calculator does the following:
+
 VERSION 1:
 
 ✅ Perform basic operations (Addition, Subtraction, Multiplication, Division)
